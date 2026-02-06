@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Vaibhav Pande
 
-<!--
-**vaibh906/vaibh906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Python & Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- Machine Learning
+- Flask
+- HTML & CSS
+- Git & GitHub
+
+---
+
+## 📌 Projects
+🔹 Movie Recommendation System (ML + TMDB API)  
+🔹 Marathi Poetry Emotion Analyzer  
+🔹 Python Mini Projects  
+
+---
+
+## 🎯 Currently Learning
+- Advanced Machine Learning
+- APIs & Backend Development
+
+---
+
+## 📫 Contact
+📧 Email: yourmail@gmail.com
+
